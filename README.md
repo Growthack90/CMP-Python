@@ -51,7 +51,7 @@ pip install requests
 Con l'ambiente attivo, esegui l'applicazione con:
 
 ```powershell
-python five-coin.py
+python main.py
 ```
 
 ## Disattivazione
